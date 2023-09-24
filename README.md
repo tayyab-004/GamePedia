@@ -1,6 +1,6 @@
 # GamePedia
 
-Welcome to GamePedia - Your Ultimate Game Hub!
+Welcome to GamePedia - Our Ultimate Game Hub!
 
 ## Overview
 
