@@ -44,7 +44,7 @@ Follow these steps to get GamePedia up and running on your local machine:
 
 4. Obtain an API key from [rawg.io documentation](https://rawg.io/apidocs).
 
-5. Create a `src/services/api-client.ts` file in the root directory and add your API key:
+5. Open `src/services/api-client.ts` file and add your API key:
 
    ```
    params : {
